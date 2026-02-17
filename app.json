@@ -1,6 +1,6 @@
 {
   "expo": {
-    "icon": "https://agent.expo.app/static/icon.png",
+    "icon": "https://storage.googleapis.com/expo-agent-images-production/production/5828baef-4030-45c5-b232-d001f9994231/019c6932-e361-79f8-a24c-a3ed011917ab/6f360dab-c691-4315-a6c0-12f05aa5c308",
     "orientation": "default",
     "scheme": "acme",
     "userInterfaceStyle": "automatic",
@@ -15,7 +15,8 @@
       "expo-font",
       "expo-image",
       "expo-router",
-      "expo-web-browser"
+      "expo-web-browser",
+      "@bacons/apple-colors"
     ],
     "name": "Agent Chat Console",
     "owner": "ccheever-agenttest1"
